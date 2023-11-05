@@ -1,12 +1,20 @@
-# Laravel Test: API Controller - Voices
 
-This is a Controller code that needs to be improved, in whatever way possible.
+## important url
 
-This repository is not a full Laravel project, just that one Controller file.
-Your task is to improve the code and create a test for it.
-Don't forget install the Laravel itself.
+#### Handle error : 
+```bash
+ http://localhost:8000/log-viewer
+ ```
+#### Handle Doc API : 
+```bash
+http://localhost:8000/docs/api 
+```
 
----
-
-Good luck!
-
+#### Monitoring web : 
+```bash
+php artisan telescope:install
+```
+```bash
+http://localhost:8000/docs/api 
+```
+##
